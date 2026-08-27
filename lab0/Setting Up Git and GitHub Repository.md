@@ -74,7 +74,7 @@ You can use this to store your class projects and assignment submissions.
 ## Set your own identity
 
 ```bash
-git config --local user.name "Your Full Name or GitHub username"
+git config --local user.name "Neocat1234"
 git config --local user.email "YourGitHubUserName@users.noreply.github.com"
 ```
 This is so that your commits later knows who you are.
